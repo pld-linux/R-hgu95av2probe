@@ -2,12 +2,12 @@
 
 Summary:	Probe sequence data for microarrays of type hgu95av2
 Name:		R-%{packname}
-Version:	2.11.0
+Version:	2.13.0
 Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	467b77995d7b3bddaf6d2118282108c2
+# Source0-md5:	eb4c614234b58f7e2a618b0f72f2d416
 URL:		http://www.bioconductor.org/packages/release/data/annotation/html/hgu95av2probe.html
 BuildRequires:	R-AnnotationDbi
 BuildRequires:	R
